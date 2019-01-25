@@ -1,6 +1,6 @@
 ## Welcome to the bot watcher project.
 
-You can use the [editor on GitHub](https://github.com/kenmaready/botwatch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In March of 2017, the University of South Carolina released a study estimating that some nine to fifteen percent of all twitter accounts (or up to 48,000,000 accounts) were bots. can use the [editor on GitHub](https://github.com/kenmaready/botwatch/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
