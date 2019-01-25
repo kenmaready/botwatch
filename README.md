@@ -4,7 +4,7 @@ In March of 2017, the University of Southern California released a study estimat
 
 Bot watch aims to identify bots and bot activity through machine learning techniques and then visualize bot activity in a way that is useful in understanding, analyzing snd dealing with the impact these automated accounts have on the flow of information and ideas. 
 
-Specifically, we will focus on bots primarily active in political and culturally divisive topics, tending to play upon and amplify fear, anger and cognitive distortions. 
+Specifically, bot watch focuses on twitter bots which are active in political and culturally divisive topics, with the apparent aim of playing upon and amplifying fear, anger and cognitive distortions. 
 
 ### Markdown
 
