@@ -1,8 +1,10 @@
-## Welcome to the bot watcher project.
+## Welcome to the bot watch project.
 
-In March of 2017, the University of Southern California released a study estimating that some nine to fifteen percent of all twitter accounts (or up to 48,000,000 accounts) were bots. A study by Indians University released in November 2018 highlights the disproportionate role that bots played in spreading ‘low credibility’ information in connection with the 2016 U.S. presidential election. 
+In March of 2017, the University of Southern California released a study estimating that some nine to fifteen percent of all twitter accounts (or up to 48,000,000 accounts) were bots. A study by Indiana University researchers released in November 2018 highlights the disproportionate role that bots played in spreading ‘low credibility’ information in connection with the 2016 U.S. presidential election. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bot watch aims to identify bots and bot activity through machine learning techniques and then visualize bot activity in a way that is useful in understanding, analyzing snd dealing with the impact these automated accounts have on the flow of information and ideas. 
+
+Specifically, we will focus on bots primarily active in political and culturally divisive topics, tending to play upon and amplify fear, anger and cognitive distortions. 
 
 ### Markdown
 
