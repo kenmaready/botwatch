@@ -1,5 +1,7 @@
-# Site wide configuration
+# Build settings
+remote_theme: mmistakes/skinny-bones-jekyll
 
+# Site wide configuration
 title: "The Bot Watch Project"
 description: "Site for the bot watch project on github."
 logo: bot-avatar.jpg
